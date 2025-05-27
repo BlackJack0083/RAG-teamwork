@@ -8,3 +8,4 @@ __pycache__/
 # Ignore the local BERT model directory
 m3e-small/
 Qwen3-0.6B/
+chroma_db/
