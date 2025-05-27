@@ -52,7 +52,7 @@ def compute_reference_accuracy(data):
     return correct / total if total > 0 else 0.0
 
 def main():
-    data = load_answers("QA_pairs_answers_mix_method.json")
+    data = load_answers("QA_pairs_answers.json")
 
     bleu_scores, rouge1_scores, rouge2_scores = compute_nlp_scores(data)
     
