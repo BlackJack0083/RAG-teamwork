@@ -1,0 +1,12 @@
+langchain>=0.1.0
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-chroma
+python-dotenv
+pypdf
+jieba
+rouge
+rouge-chinese # If specifically needed for Chinese ROUGE
+nltk
+sentence-transformers

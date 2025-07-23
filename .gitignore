@@ -1,12 +1,17 @@
-# Ignore PyTorch model checkpoints
+# Ignore files
 *.pth
 .env
+.ipynb
+.csv
+.zip
+eval.py
 
 # Ignore Python bytecode directories
 __pycache__/
 
-# Ignore the local BERT model directory
+# Ignore the local directory
 m3e-small/
 Qwen3-0.6B/
 chroma_db/
 bge-reranker-base/
+rag_results/
