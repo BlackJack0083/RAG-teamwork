@@ -1,9 +1,9 @@
 # Ignore files
 *.pth
-.env
-.ipynb
-.csv
-.zip
+*.env
+*.ipynb
+*.csv
+*.zip
 eval.py
 
 # Ignore Python bytecode directories
