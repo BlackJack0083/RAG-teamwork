@@ -1,7 +1,8 @@
 # RAG Pipeline for Document Q\&A
 
-
 This project implements a flexible and extensible Retrieval Augmented Generation (RAG) pipeline designed for question-answering over custom PDF documents. It incorporates advanced retrieval techniques such as **BM25**, **Vector Search**, and **Ensemble Retrieval** with an optional **Cross-Encoder Reranker** to enhance the relevance of retrieved contexts. The pipeline also includes a robust **evaluation framework** to measure performance using BLEU, ROUGE, and reference accuracy metrics.
+
+Detailed informations: [RAG report.pdf](RAG大作业报告.pdf)
 
 -----
 
