@@ -8,6 +8,7 @@ eval.py
 answer1.json
 answer2.json
 answer3.json
+paths_to_delete.txt
 # Ignore Python bytecode directories
 __pycache__/
 
